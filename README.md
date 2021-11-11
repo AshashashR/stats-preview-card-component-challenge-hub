@@ -14,7 +14,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -55,7 +54,7 @@ I need to practice more on CSS grid and also learn more about responsive site bu
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=dhBR6-Jjql4) - This video helped me for understanding CSS Grid. 
+- [Example resource 1](https://www.youtube.com/watch?v=dhBR6-Jjql4) - This video helped me for understanding CSS Grid for this challenge.
 
 ## Author
 
