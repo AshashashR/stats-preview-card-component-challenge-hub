@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ashleyrakotoson.github.io/stats-preview-card-component-challenge-hub/)
+- Live Site URL: [Add live site URL here](https://ashashashr.github.io/stats-preview-card-component-challenge-hub/)
 
 ## My process
 
